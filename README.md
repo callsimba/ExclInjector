@@ -1,3 +1,8 @@
+
+![excl_diagram_engaging](https://github.com/user-attachments/assets/631260be-2283-43cb-8bd2-8aba7e2ea802)
+
+
+
 # Exclinjector
 
 A custom C# tool for stealthy payload execution on Windows, with built-in Defender bypass and UAC elevation.
